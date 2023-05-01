@@ -1,7 +1,6 @@
 ### Hi there 👋
 Hey, I’m Mashi. I'm from Bangladesh and I'm a self-taught developer. I usually work with React and TypeScript in Next.js. Feel free to follow me or reach out to me regarding questions, feedback, criticism or quite literally *anything* else. 
 
-![](https://komarev.com/ghpvc/?username=syedshaon&color=blue)
 
 ## My portfolio
 🖥 <a href="https://www.mashi-zone.com/">My portfolio website</a> <br />
