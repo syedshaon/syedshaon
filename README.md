@@ -26,7 +26,7 @@ Hey, I’m Mashi. I'm from Bangladesh and I'm a self-taught front-end developer.
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </a>
 
-
+<!--
 ## Getting in touch
 
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=syedshaon99@gmail.com&su=Ihr+Anliegen&body=Ihre+Nachricht+an+mich&tf=cm">
@@ -43,7 +43,7 @@ Hey, I’m Mashi. I'm from Bangladesh and I'm a self-taught front-end developer.
 
 
 
-<!--
+
 **syedshaon/syedshaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
