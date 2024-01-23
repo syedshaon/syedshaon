@@ -1,12 +1,12 @@
 ### Hi there 👋
 Hey, I’m Mashi. I'm from Bangladesh and I'm a self-taught front-end developer. Feel free to follow me or reach out to me regarding questions, feedback, criticism or quite literally *anything* else. 
 
-
+<!--
 ## My portfolio
 🖥 <a href="https://www.mashi-zone.com/">My portfolio website</a> <br />
 🤝🏻 <a href="https://www.linkedin.com/in/syedmashiurrahman/">My LinkedIn profile</a>
 
-
+-->
 
 ## My Tech Stack
 
