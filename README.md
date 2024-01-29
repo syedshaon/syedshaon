@@ -21,6 +21,9 @@ Hey, I’m Mashi. I'm a self-taught MERN Stack developer. Feel free to follow me
 <a href="https://sass-lang.com/">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </a>
+<a href="https://tailwindcss.com/">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</a>
 
 <a href="https://www.npmjs.com/">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
